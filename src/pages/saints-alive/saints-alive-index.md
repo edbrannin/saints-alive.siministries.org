@@ -3,11 +3,11 @@ permalink: "saints-alive/index.html"
 layout: page
 ---
 
-Saints Alive
+<img src="/assets/images/FrMcNamara.png" style="float: right; margin: 1em">
+
+Saints Alive 
 ------------
 
-
-<img src="/assets/images/FrMcNamara.png" style="float: right;">
 
 Rev. Dr. Robert F. McNamara was ordained a priest in 1936 and was Professor of Church History for over 40 years. He said weekend Masses at St. Salome for many years, and moved to St. Thomas the Apostle when he retired from teaching in 1980. These vignettes were published in the parish bulletin for over 28 years.
 
