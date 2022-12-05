@@ -4,7 +4,7 @@ pagination:
     size: 1
     alias: saint
     resolve: values
-permalink: "saints-alive/saint/{{ saint.title | slug }}/index.html"
+permalink: "saints-alive/saint/{{ saint.slug }}/index.html"
 layout: page
 ---
 
