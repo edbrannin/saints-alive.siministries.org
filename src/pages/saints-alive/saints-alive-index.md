@@ -121,5 +121,5 @@ The list below is organized in alphabetical groups by first name, for example Sa
 
 
 {% for saint in saints_alive_saints %}
--  [{{saint.title}}](/saints-alive/saint/{{ saint.title | slug }})
+-  [{{saint.title}}](/saints-alive/saint/{{ saint.slug }})
 {% endfor %}
