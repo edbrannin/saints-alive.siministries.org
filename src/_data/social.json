@@ -3,10 +3,5 @@
     "platform": "github",
     "url": "https://github.com/edbrannin/saints-alive.siministries.org",
     "icon": "github.svg"
-  },
-  {
-    "platform": "rss",
-    "url": "/feed.xml",
-    "icon": "rss.svg"
   }
 ]
