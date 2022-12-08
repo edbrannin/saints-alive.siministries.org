@@ -5,7 +5,7 @@ pagination:
     alias: saint
     resolve: values
 permalink: "saints-alive/saint/{{ saint.slug }}/index.html"
-layout: page
+layout: saint
 ---
 
 {{ saint.markdown }}

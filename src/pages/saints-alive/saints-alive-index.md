@@ -13,7 +13,7 @@ Rev. Dr. Robert F. McNamara was ordained a priest in 1936 and was Professor of C
 
 Father McNamara went home to the Lord on May 22, 2009 at the age of 98.
 
-##### Biography
+### Biography
 
 Father's cousin, Ann K. Maloney, has written a book about his life. A Priest Forever: The Life and Times of Father Robert F. McNamara, is available for purhcase / order at [amazon.com](http://www.amazon.com/Priest-Forever-Father-Robert-McNamara/dp/1483418766/ref=sr_1_2?ie=UTF8&qid=1419434426&sr=8-2&keywords=a+priest+forever), [lulu.com](http://www.lulu.com/shop/ann-k-maloney/a-priest-forever-the-life-and-times-of-father-robert-f-mcnamara/paperback/product-21861586.html), [turtlepromise.com](http://www.turtlepromise.com/) and Barnes & Noble Booksellers. It is also available as an ebook on [lulu.com](http://www.lulu.com/shop/ann-k-maloney/a-priest-forever-the-life-and-times-of-father-robert-f-mcnamara/ebook/product-21864796.html).
 
@@ -23,6 +23,9 @@ Aside from many historical books, he wrote a series entitled "All God's Children
 
 [What is a Saint?](/saints-alive/what-is-a-saint/)
 
-{% for saint in saints_alive_saints %}
--  [{{saint.title}}](/saints-alive/saint/{{ saint.slug }})
-{% endfor %}
+
+| Note | Name | Feast |
+| --- | --- | --- |
+{%- for saint in saints_alive_saints %}
+| {{ saint.note }} | [{{saint.title}}](/saints-alive/saint/{{ saint.slug }}) | {{ saint.feastDay }} |
+{%- endfor %}
