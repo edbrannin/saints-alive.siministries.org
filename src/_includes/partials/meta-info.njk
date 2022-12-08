@@ -26,8 +26,12 @@
 
 <title>
   {% if seo.title %} {{ seo.title }}
+  {% elif saint.title %}
+  {{ saint.title }} - {{ meta.siteName }}
+  {% elif reflection.title %}
+  {{ reflection.title }} - {{ meta.siteName }}
   {% elif title %}
-  {{ title }}
+  {{ title }} - {{ meta.siteName }}
   {% else %}
   {{ meta.siteName }}
   {% endif %}
