@@ -32,3 +32,19 @@ Edit your preferences (colors, fonts, fluid text sizes etc.) in `src/assets/css/
 ## Watch the talk
 
 {% youtube '5uhIiI9Ld5M', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+
+<article class="region" style="--region-space-top: var(--space-s)">
+  <div class="wrapper flow prose">
+    <h2>{{ blog.title }}</h2>
+    <!-- blog intro text is optional. -->
+    {% if blog.intro %}
+    <p>{{ blog.intro }}</p>
+    {% endif %}
+  </div>
+  <!-- TODO: duplicate of partials/blog.njk -->
+
+  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %} {%
+    include "partials/blog-card.njk" %} {% endfor %}
+  </ul>
+</article>

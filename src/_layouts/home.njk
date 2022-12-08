@@ -16,19 +16,3 @@ layout: base
     {{ content | safe }}
   </div>
 </article>
-
-<article class="region" style="--region-space-top: var(--space-s)">
-  <div class="wrapper flow prose">
-    <h2>{{ blog.title }}</h2>
-    <!-- blog intro text is optional. -->
-    {% if blog.intro %}
-    <p>{{ blog.intro }}</p>
-    {% endif %}
-  </div>
-  <!-- TODO: duplicate of partials/blog.njk -->
-
-  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %} {%
-    include "partials/blog-card.njk" %} {% endfor %}
-  </ul>
-</article>
