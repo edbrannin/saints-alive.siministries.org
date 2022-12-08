@@ -1,17 +1,17 @@
 module.exports = {
   top: [
     {
-      text: 'About',
-      url: '/about/'
+      text: 'Developer Info',
+      url: '/about/',
     },
     {
       text: 'Saints Alive',
-      url: '/saints-alive/'
+      url: '/saints-alive/',
     },
     {
-      text: 'Blog',
-      url: '/blog/'
-    }
+      text: 'Sunday Reflections',
+      url: '/sunday-reflections/',
+    },
   ],
   bottom: [
     {
