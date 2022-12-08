@@ -1,7 +1,7 @@
-const package = require('../../package.json');
+const packageJson = require('../../package.json');
 
 module.exports = {
-  pkv: package.version || 'v1',
+  pkv: packageJson.version || 'v1',
   url: process.env.URL || 'http://localhost:8080',
   siteName: 'Saints Alive',
   siteDescription:
@@ -19,30 +19,31 @@ module.exports = {
     opengraph_default: '/assets/images/opengraph-default.jpg',
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '', // i.e. @author -  twitter profile of the site
-    mastodonProfile: '' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+    mastodonProfile: '', // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
   },
   blog: {
     // this is for the rss feed
     name: 'My great Web Development Blog',
     description:
-      'Tell the word what you are writing about in your blog! It will show up on feed readers.'
+      'Vignettes about 500+ Saints, and Sunday reflections for each Liturgical year',
   },
   pagination: {
-    itemsPerPage: 20
+    itemsPerPage: 20,
   },
   address: {
-    // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
-    firma: 'Organization name',
-    street: '123 Main St.',
-    city: 'Ciudad',
-    state: 'Estado',
-    zip: '12345',
-    mobileDisplay: '+34 1234567',
-    mobileCall: ' +341234567',
-    email: 'hola@yoursite.com',
-    cif: ''
+    // edit all presets or leave empty.
+    // They are being used in the pages for privacy.md and imprint.md
+    firma: '',
+    street: '',
+    city: 'Rochester',
+    state: 'NY',
+    zip: '',
+    mobileDisplay: '',
+    mobileCall: '',
+    email: 'edbrannin@gmail.com',
+    cif: '',
   },
   menu: {
-    closedText: 'Menu'
-  }
+    closedText: 'Menu',
+  },
 };
