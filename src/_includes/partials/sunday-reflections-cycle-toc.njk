@@ -1,5 +1,5 @@
 <div class="">
-  <table class="border-collapse">
+  <table class="border-collapse reflections">
     <thead>
       <tr>
         <th class="border-r">Day</th>
@@ -10,7 +10,7 @@
     </thead>
     <tbody>
       {% for week in sunday_reflections_toc %} <tr>
-        <td class="text-right p-8 border-r">{{ week.name }}</td>
+        <th class="text-right border-r p-2">{{ week.name }}</td>
         <td class="p-2"><a href="{{ week.a }}">Year A</a></td>
         <td class="p-2"><a href="{{ week.b }}">Year B</a></td>
         <td class="p-2"><a href="{{ week.c }}">Year C</a></td>

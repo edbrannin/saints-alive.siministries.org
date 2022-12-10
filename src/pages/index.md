@@ -1,15 +1,11 @@
 ---
 permalink: /index.html
 title: 'Saints Alive'
-description: 'Key principles using modern CSS, fluid type, fluid space, flexible layout and progressive enhancement will help you to build better front-ends that work for everyone.'
+subtitle: Reflections by Father Robert McNamara
+description: 'Saints Alive and Sunday Reflections, by Father Robert McNamara.'
 layout: 'home'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
  
-
-
 <img src="/assets/images/FrMcNamara.png" style="float: right; margin: 1em">
 
 Rev. Dr. Robert F. McNamara was ordained a priest in 1936 and was Professor of Church History for over 40 years. He said weekend Masses at St. Salome for many years, and moved to St. Thomas the Apostle when he retired from teaching in 1980.
@@ -25,25 +21,25 @@ We cannot answer questions about his articles.
 [clark-reflection]: https://web.archive.org/web/20221210040254/https://catholiccourier.com/articles/remembering-missing-father-robert-mcnamara/
 
 
-<ul class="wrapper grid grid-cols-2 auto-rows-fr mt-l-xl" style="grid-template-columns: 1fr 1fr; grid-auto-rows: 1fr" role="list" data-layout="50-50">
+<div class="wrapper grid grid-cols-2 auto-rows-fr mt-l-xl" style="grid-template-columns: 1fr 1fr; grid-auto-rows: 1fr" role="list" data-layout="50-50">
   
-  <li class="card flow clickable-card overflow-hidden">
+  <div class="card flow clickable-card overflow-hidden">
     <h3>
       <a href="/saints-alive">Saints Alive</a>
     </h3>
     <p>Vignettes about 500+ saints</p>
-  </li>
+  </div>
 
-  <li class="card flow clickable-card overflow-hidden">
+  <div class="card flow clickable-card overflow-hidden">
     <h3>
       <a href="/sunday-reflections">Sunday Reflections</a>
     </h3>
     <p>
       Reflections centering on the readings of the liturgical cycle
     </p>
-  </li>
+  </div>
 
-</ul>
+</div>
 
 ### Biography
 

@@ -2,13 +2,9 @@
 layout: base
 ---
 
-<header class="section spot-color-primary">
-  <div class="section__inner">
-    <div class="wrapper flow region">
-      <h1 class="text-center">{{ title }}</h1>
-    </div>
-  </div>
-  {% include 'svg/divider-waves.svg' %}
+<header class="section">
+  <h1 class="text-center" style="max-width: unset;">{{ title }}</h1>
+  {% if subtitle %}<div class="subtitle">{{ subtitle }}</div>{% endif %}
 </header>
 
 <article>

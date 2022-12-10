@@ -3,11 +3,12 @@ layout: base
 ---
 
 <article class="region">
-  <h1>
-    {{ reflection.title }}{% if reflection.litCycleYear %}<span class="block">
+  <h1 style="max-width: unset; margin-bottom: 1rem; text-align: center">
+    {{ reflection.title }}{% if reflection.litCycleYear %}<div>
       Year {{ reflection.litCycleYear }}
-    </span>{% endif %}
+    </div>{% endif %}
   </h1>
+
   <div class="wrapper flow prose mt-4">
     {{ content | safe }}
   </div>
