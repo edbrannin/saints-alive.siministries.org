@@ -21,7 +21,7 @@ We cannot answer questions about his articles.
 [clark-reflection]: https://web.archive.org/web/20221210040254/https://catholiccourier.com/articles/remembering-missing-father-robert-mcnamara/
 
 
-<div class="wrapper grid grid-cols-2 auto-rows-fr mt-l-xl" style="grid-template-columns: 1fr 1fr; grid-auto-rows: 1fr" role="list" data-layout="50-50">
+<div class="home-links wrapper grid mt-l-xl" role="list" data-layout="50-50">
   
   <div class="card flow clickable-card overflow-hidden">
     <h3>
