@@ -12,8 +12,12 @@ We cannot answer questions about his articles.
 
 Aside from "Saints Alive" and many historical books, he wrote a series entitled "All God's Children" in in the early-1980's with reflections centering on the readings of the liturgical cycle. Visit [Sunday Reflections](/sunday-reflections/) to read these articles.
 
-[What is a Saint?](/saints-alive/what-is-a-saint/)
+<div class="card clickable-card text-center">
 
+  The first article:
+  [What is a Saint?](/saints-alive/what-is-a-saint/)
+
+</div>
 
 | Note | Name | Feast |
 | --- | --- | --- |

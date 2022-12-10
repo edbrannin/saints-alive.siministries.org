@@ -37,3 +37,7 @@
 .card:focus-within a:focus {
   outline: none;
 }
+
+.card.text-center {
+  text-align: center;
+}
