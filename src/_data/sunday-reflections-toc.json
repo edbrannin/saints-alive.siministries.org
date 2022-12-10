@@ -1,0 +1,350 @@
+[
+  {
+    "name": "1st Sunday of Advent",
+    "a": "/sunday-reflections/1st-sunday-of-advent-a/",
+    "b": "/sunday-reflections/1st-sunday-of-advent-b/",
+    "c": "/sunday-reflections/1st-sunday-of-advent-c/"
+  },
+  {
+    "name": "2nd Sunday of Advent",
+    "a": "/sunday-reflections/2nd-sunday-of-advent-a/",
+    "b": "/sunday-reflections/2nd-sunday-of-advent-b/",
+    "c": "/sunday-reflections/2nd-sunday-of-advent-c/"
+  },
+  {
+    "name": "3rd Sunday of Advent",
+    "a": "/sunday-reflections/3rd-sunday-of-advent-a/",
+    "b": "/sunday-reflections/3rd-sunday-of-advent-b/",
+    "c": "/sunday-reflections/3rd-sunday-of-advent-c/"
+  },
+  {
+    "name": "4th Sunday of Advent",
+    "a": "/sunday-reflections/4th-sunday-of-advent-a/",
+    "b": "/sunday-reflections/4th-sunday-of-advent-b/",
+    "c": "/sunday-reflections/4th-sunday-of-advent-c/"
+  },
+  {
+    "name": "Christmas",
+    "a": "/sunday-reflections/christmas-a/",
+    "b": "/sunday-reflections/christmas-b/",
+    "c": "/sunday-reflections/christmas-c/"
+  },
+  {
+    "name": "Holy Family",
+    "a": "/sunday-reflections/holy-family-a/",
+    "b": "/sunday-reflections/holy-family-b/",
+    "c": "/sunday-reflections/holy-family-c/"
+  },
+  {
+    "name": "Mary Mother of God",
+    "a": "/sunday-reflections/mary-mother-of-god-a/",
+    "b": "/sunday-reflections/mary-mother-of-god-b/",
+    "c": "/sunday-reflections/mary-mother-of-god-c/"
+  },
+  {
+    "name": "Epiphany",
+    "a": "/sunday-reflections/epiphany-a/",
+    "b": "/sunday-reflections/epiphany-b/",
+    "c": "/sunday-reflections/epiphany-c/"
+  },
+  {
+    "name": "Baptism of The Lord",
+    "a": "/sunday-reflections/baptism-of-the-lord-a/",
+    "b": "/sunday-reflections/baptism-of-the-lord-b/",
+    "c": "/sunday-reflections/baptism-of-the-lord-c/"
+  },
+  {
+    "name": "1st Sunday of Lent",
+    "a": "/sunday-reflections/1st-sunday-of-lent-a/",
+    "b": "/sunday-reflections/1st-sunday-of-lent-b/",
+    "c": "/sunday-reflections/1st-sunday-of-lent-c/"
+  },
+  {
+    "name": "2nd Sunday of Lent",
+    "a": "/sunday-reflections/2nd-sunday-of-lent-a/",
+    "b": "/sunday-reflections/2nd-sunday-of-lent-b/",
+    "c": "/sunday-reflections/2nd-sunday-of-lent-c/"
+  },
+  {
+    "name": "3rd Sunday of Lent",
+    "a": "/sunday-reflections/3rd-sunday-of-lent-a/",
+    "b": "/sunday-reflections/3rd-sunday-of-lent-b/",
+    "c": "/sunday-reflections/3rd-sunday-of-lent-c/"
+  },
+  {
+    "name": "4th Sunday of Lent",
+    "a": "/sunday-reflections/4th-sunday-of-lent-a/",
+    "b": "/sunday-reflections/4th-sunday-of-lent-b/",
+    "c": "/sunday-reflections/4th-sunday-of-lent-c/"
+  },
+  {
+    "name": "5th Sunday of Lent",
+    "a": "/sunday-reflections/5th-sunday-of-lent-a/",
+    "b": "/sunday-reflections/5th-sunday-of-lent-b/",
+    "c": "/sunday-reflections/5th-sunday-of-lent-c/"
+  },
+  {
+    "name": "Palm (Passion) Sunday",
+    "a": "/sunday-reflections/palm-passion-sunday-a/",
+    "b": "/sunday-reflections/palm-passion-sunday-b/",
+    "c": "/sunday-reflections/palm-passion-sunday-c/"
+  },
+  {
+    "name": "Easter",
+    "a": "/sunday-reflections/easter-a/",
+    "b": "/sunday-reflections/easter-b/",
+    "c": "/sunday-reflections/easter-c/"
+  },
+  {
+    "name": "2nd Sunday of Easter",
+    "a": "/sunday-reflections/2nd-sunday-of-easter-a/",
+    "b": "/sunday-reflections/2nd-sunday-of-easter-b/",
+    "c": "/sunday-reflections/2nd-sunday-of-easter-c/"
+  },
+  {
+    "name": "3rd Sunday of Easter",
+    "a": "/sunday-reflections/3rd-sunday-of-easter-a/",
+    "b": "/sunday-reflections/3rd-sunday-of-easter-b/",
+    "c": "/sunday-reflections/3rd-sunday-of-easter-c/"
+  },
+  {
+    "name": "4th Sunday of Easter",
+    "a": "/sunday-reflections/4th-sunday-of-easter-a/",
+    "b": "/sunday-reflections/4th-sunday-of-easter-b/",
+    "c": "/sunday-reflections/4th-sunday-of-easter-c/"
+  },
+  {
+    "name": "5th Sunday of Easter",
+    "a": "/sunday-reflections/5th-sunday-of-easter-a/",
+    "b": "/sunday-reflections/5th-sunday-of-easter-b/",
+    "c": "/sunday-reflections/5th-sunday-of-easter-c/"
+  },
+  {
+    "name": "6th Sunday of Easter",
+    "a": "/sunday-reflections/6th-sunday-of-easter-a/",
+    "b": "/sunday-reflections/6th-sunday-of-easter-b/",
+    "c": "/sunday-reflections/6th-sunday-of-easter-c/"
+  },
+  {
+    "name": "7th Sunday of Easter",
+    "a": "/sunday-reflections/7th-sunday-of-easter-a/",
+    "b": "/sunday-reflections/7th-sunday-of-easter-b/",
+    "c": "/sunday-reflections/7th-sunday-of-easter-c/"
+  },
+  {
+    "name": "Pentecost",
+    "a": "/sunday-reflections/pentecost-a/",
+    "b": "/sunday-reflections/pentecost-b/",
+    "c": "/sunday-reflections/pentecost-c/"
+  },
+  {
+    "name": "Trinity Sunday",
+    "a": "/sunday-reflections/trinity-sunday-a/",
+    "b": "/sunday-reflections/trinity-sunday-b/",
+    "c": "/sunday-reflections/trinity-sunday-c/"
+  },
+  {
+    "name": "Body and Blood of Christ",
+    "a": "/sunday-reflections/body-and-blood-of-christ-a/",
+    "b": "/sunday-reflections/body-and-blood-of-christ-b/",
+    "c": "/sunday-reflections/body-and-blood-of-christ-c/"
+  },
+  {
+    "name": "2nd Sunday Ordinary Time",
+    "a": "/sunday-reflections/2nd-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/2nd-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/2nd-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "3rd Sunday Ordinary Time",
+    "a": "/sunday-reflections/3rd-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/3rd-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/3rd-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "4th Sunday Ordinary Time",
+    "a": "/sunday-reflections/4th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/4th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/4th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "5th Sunday Ordinary Time",
+    "a": "/sunday-reflections/5th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/5th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/5th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "6th Sunday Ordinary Time",
+    "a": "/sunday-reflections/6th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/6th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/6th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "7th Sunday Ordinary Time",
+    "a": "/sunday-reflections/7th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/7th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/7th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "8th Sunday Ordinary Time",
+    "a": "/sunday-reflections/8th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/8th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/8th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "9th Sunday Ordinary Time",
+    "a": "/sunday-reflections/9th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/9th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/9th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "10th Sunday Ordinary Time",
+    "a": "/sunday-reflections/10th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/10th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/10th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "11th Sunday Ordinary Time",
+    "a": "/sunday-reflections/11th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/11th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/11th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "12th Sunday Ordinary Time",
+    "a": "/sunday-reflections/12th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/12th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/12th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "13th Sunday Ordinary Time",
+    "a": "/sunday-reflections/13th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/13th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/13th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "14th Sunday Ordinary Time",
+    "a": "/sunday-reflections/14th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/14th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/14th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "15th Sunday Ordinary Time",
+    "a": "/sunday-reflections/15th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/15th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/15th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "16th Sunday Ordinary Time",
+    "a": "/sunday-reflections/16th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/16th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/16th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "17th Sunday Ordinary Time",
+    "a": "/sunday-reflections/17th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/17th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/17th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "18th Sunday Ordinary Time",
+    "a": "/sunday-reflections/18th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/18th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/18th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "19th Sunday Ordinary Time",
+    "a": "/sunday-reflections/19th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/19th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/19th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "20th Sunday Ordinary Time",
+    "a": "/sunday-reflections/20th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/20th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/20th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "21st Sunday Ordinary Time",
+    "a": "/sunday-reflections/21st-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/21st-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/21st-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "22nd Sunday Ordinary Time",
+    "a": "/sunday-reflections/22nd-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/22nd-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/22nd-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "23rd Sunday Ordinary Time",
+    "a": "/sunday-reflections/23rd-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/23rd-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/23rd-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "24th Sunday Ordinary Time",
+    "a": "/sunday-reflections/24th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/24th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/24th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "25th Sunday Ordinary Time",
+    "a": "/sunday-reflections/25th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/25th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/25th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "26th Sunday Ordinary Time",
+    "a": "/sunday-reflections/26th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/26th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/26th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "27th Sunday Ordinary Time",
+    "a": "/sunday-reflections/27th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/27th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/27th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "28th Sunday Ordinary Time",
+    "a": "/sunday-reflections/28th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/28th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/28th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "29th Sunday Ordinary Time",
+    "a": "/sunday-reflections/29th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/29th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/29th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "30th Sunday Ordinary Time",
+    "a": "/sunday-reflections/30th-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/30th-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/30th-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "31st Sunday Ordinary Time",
+    "a": "/sunday-reflections/31st-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/31st-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/31st-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "32nd Sunday Ordinary Time",
+    "a": "/sunday-reflections/32nd-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/32nd-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/32nd-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "33rd Sunday Ordinary Time",
+    "a": "/sunday-reflections/33rd-sunday-ordinary-time-a/",
+    "b": "/sunday-reflections/33rd-sunday-ordinary-time-b/",
+    "c": "/sunday-reflections/33rd-sunday-ordinary-time-c/"
+  },
+  {
+    "name": "Christ the King",
+    "a": "/sunday-reflections/christ-the-king-a/",
+    "b": "/sunday-reflections/christ-the-king-b/",
+    "c": "/sunday-reflections/christ-the-king-c/"
+  }
+]
