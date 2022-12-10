@@ -1,0 +1,20 @@
+<div class="">
+  <table class="border-collapse">
+    <thead>
+      <tr>
+        <th class="border-r">Day</th>
+        <th>Cycle A</th>
+        <th>Cycle B</th>
+        <th>Cycle C</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for week in sunday_reflections_toc %} <tr>
+        <td class="text-right p-8 border-r">{{ week.name }}</td>
+        <td class="p-2"><a href="{{ week.a }}">Year A</a></td>
+        <td class="p-2"><a href="{{ week.b }}">Year B</a></td>
+        <td class="p-2"><a href="{{ week.c }}">Year C</a></td>
+      </tr> {% endfor %}
+    </tbody>
+  </table>
+</div>

@@ -1,6 +1,6 @@
 ---
 pagination:
-    data: "sunday-reflections"
+    data: "sunday_reflections"
     size: 1
     alias: reflection
     resolve: values
