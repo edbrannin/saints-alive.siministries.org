@@ -8,7 +8,7 @@ Reflections on the Scripture Readings for the three cycles of the Sunday lection
 
 <img src="/assets/images/FrMcNamara.png" style="float: right; margin: 1em">
 
-Aside from "Saints Alive" and many historical books, Father Robert F. McNamara wrote a series entitled "All God's Children" in the early-1980's with reflections centering on the readings of the liturgical cycle. These reflections are included in this section.![](/tasks/sites/SKTP/assets/Image/FrMcNamara.png)
+Aside from "[Saints Alive][]" and many historical books, Father Robert F. McNamara wrote a series entitled "All God's Children" in the early-1980's with reflections centering on the readings of the liturgical cycle. These reflections are included in this section.
 
 Father McNamara went home to the Lord on May 22, 2009 at the age of 98, the oldest priest in the Diocese of Rochester, New York at that time.
 
@@ -16,7 +16,7 @@ Father McNamara went home to the Lord on May 22, 2009 at the age of 98, the olde
 
 The reflections in question/answer format are by [Deacon Paul Rooney, Mary Our Queen Parish, Omaha][] who sent them to other deacons. This series centers on the Catechism. They are used with his permission.
 
-
+[Saints Alive]: /saints-alive
 [Reflection by Bishop Clark]: https://web.archive.org/web/20221210040254/https://catholiccourier.com/articles/remembering-missing-father-robert-mcnamara/
 [Deacon Paul Rooney, Mary Our Queen Parish, Omaha]: https://web.archive.org/web/20170908174022/http://www.angelfire.com:80/ne/DeaconPaul/
 
