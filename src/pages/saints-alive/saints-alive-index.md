@@ -1,6 +1,7 @@
 ---
 permalink: "saints-alive/index.html"
 layout: page
+title: "Saints Alive"
 ---
 
 <img src="/assets/images/FrMcNamara.png" style="float: right; margin: 1em">
