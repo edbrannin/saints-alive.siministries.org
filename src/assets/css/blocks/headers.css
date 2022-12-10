@@ -1,6 +1,10 @@
-header h1 {
+header h1, article h1 {
   max-width: unset;
   text-align: center;
+}
+
+article h1 {
+  margin-bottom: 1rem;
 }
 
 header .subtitle {

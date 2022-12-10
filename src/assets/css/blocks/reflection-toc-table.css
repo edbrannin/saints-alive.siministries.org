@@ -1,3 +1,15 @@
 table.reflections td, table.reflections th {
   padding: 0.5rem;
 }
+
+table.reflections thead th {
+  font-weight: bold;
+}
+
+table.reflections thead th:first-child {
+  text-align: right;
+}
+
+table.reflections tbody th {
+  text-align: right;
+}

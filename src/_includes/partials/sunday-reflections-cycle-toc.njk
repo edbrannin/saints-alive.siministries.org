@@ -2,7 +2,7 @@
   <table class="border-collapse reflections">
     <thead>
       <tr>
-        <th class="border-r">Day</th>
+        <th>Day</th>
         <th>Cycle A</th>
         <th>Cycle B</th>
         <th>Cycle C</th>
@@ -10,10 +10,10 @@
     </thead>
     <tbody>
       {% for week in sunday_reflections_toc %} <tr>
-        <th class="text-right border-r p-2">{{ week.name }}</td>
-        <td class="p-2"><a href="{{ week.a }}">Year A</a></td>
-        <td class="p-2"><a href="{{ week.b }}">Year B</a></td>
-        <td class="p-2"><a href="{{ week.c }}">Year C</a></td>
+        <th>{{ week.name }}</td>
+        <td><a href="{{ week.a }}">Year A</a></td>
+        <td><a href="{{ week.b }}">Year B</a></td>
+        <td><a href="{{ week.c }}">Year C</a></td>
       </tr> {% endfor %}
     </tbody>
   </table>
