@@ -9,6 +9,9 @@ blog:
   intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
+
+<h1 class="gradient-text">{{ title }}</h1>
+
 ## An Eleventy starter
 
 This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://twitter.com/piccalilli_) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
