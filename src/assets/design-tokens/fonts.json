@@ -8,6 +8,11 @@
       "value": ["Alegreya", "serif"]
     },
     {
+      "name": "Headings",
+      "description": "System fonts for body copy and globally set text.",
+      "value": ["Alegreya SC", "Alegreya", "serif"]
+    },
+    {
       "name": "Base",
       "description": "System fonts for body copy and globally set text.",
       "value": ["Alegreya", "serif"]
