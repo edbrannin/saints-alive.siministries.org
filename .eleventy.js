@@ -36,6 +36,9 @@ const {slugifyString} = require('./config/utils');
 const {escape} = require('lodash');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 // const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
+const faviconPlugin = require("eleventy-favicon");
+
+const OUTPUT_DIR = 'dist';
 
 module.exports = eleventyConfig => {
   // Tell 11ty to use the .eleventyignore and ignore our .gitignore file
@@ -86,6 +89,8 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
   // eleventyConfig.addPlugin(inclusiveLangPlugin);
+  eleventyConfig.addPlugin(faviconPlugin, { destination: OUTPUT_DIR });
+
 
   // 	--------------------- Passthrough File Copy -----------------------
 
@@ -95,8 +100,11 @@ module.exports = eleventyConfig => {
   );
 
   //  social icons and manifest to root directory
+  // eleventyConfig.addPassthroughCopy({
+  //   'src/assets/images/favicon/*': '/'
+  // });
   eleventyConfig.addPassthroughCopy({
-    'src/assets/images/favicon/*': '/'
+    'src/assets/images/social/*': '/'
   });
 
   // 	--------------------- Config -----------------------
@@ -104,7 +112,7 @@ module.exports = eleventyConfig => {
   return {
     dir: {
       input: 'src',
-      output: 'dist',
+      output: OUTPUT_DIR,
       includes: '_includes',
       layouts: '_layouts'
     },
