@@ -19,7 +19,9 @@ module.exports = {
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
-    opengraph_default: '/assets/images/opengraph-default.jpg',
+    opengraph_default: '/assets/images/social/facebook-link-share.png',
+    opengraph_twitter: '/assets/images/social/facebook-link-share.png',
+    opengraph_insta: '/assets/images/social/facebook-link-share.png',
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '', // i.e. @author -  twitter profile of the site
     mastodonProfile: '', // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
