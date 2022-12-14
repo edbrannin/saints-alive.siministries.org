@@ -8,4 +8,4 @@ permalink: "saints-alive/saint/{{ saint.slug }}/index.html"
 layout: saint
 ---
 
-{{ saint.markdown }}
+{{ saint.markdown | safe }}
