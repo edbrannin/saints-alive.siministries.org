@@ -21,6 +21,6 @@ Aside from "Saints Alive" and many historical books, he wrote a series entitled 
 
 | Note | Name | Feast |
 | --- | --- | --- |
-{%- for saint in saints_alive_saints %}
+{%- for saint in saints_alive_list %}
 | {{ saint.note }} | [{{saint.title}}](/saints-alive/saint/{{ saint.slug }}) | {{ saint.feastDay }} |
 {%- endfor %}
