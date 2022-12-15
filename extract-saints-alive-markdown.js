@@ -1,5 +1,6 @@
+#!/usr/bin/env node
+
 const fs = require('fs').promises;
-const path = require('path');
 const yaml = require('yaml');
 
 const INPUT_FILE = 'src/_data/saints_alive_saints.json';
