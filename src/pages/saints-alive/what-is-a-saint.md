@@ -1,17 +1,16 @@
 ---
 permalink: "saints-alive/what-is-a-saint/index.html"
-totle: What is a saint?
+title: What is a saint?
 layout: page
 ---
 
-What is a Saint?
-----------------
-
 **First Saints Alive Column - What is a Saint?**
 
-For the past three years we have provided the people of St. Thomas Church with an exclusive column, “All God's Children.” Each weekly installment told a story related in some way to the liturgical readings of the particular Sunday. Now we have finished the three-year cycle of these readings, so “All God's Children” has run its course. We hope it has helped you to see a little better how God is reflected in the lives of his creatures.
+For the past three years we have provided the people of St. Thomas Church with an exclusive column, “[All God's Children][].” Each weekly installment told a story related in some way to the liturgical readings of the particular Sunday. Now we have finished the three-year cycle of these readings, so “[All God's Children][]” has run its course. We hope it has helped you to see a little better how God is reflected in the lives of his creatures.
 
-“Saints Alive” will succeed “All God's Children.” Henceforth (God willing, and the saints assisting), we shall tell you the stories of a saint or “blessed” drawn from the calendar of each current week. Some of them will be familiar to you. Many more will not. There is such a vast array of saints from every clime and time and condition that it is good to be reminded of their infinite variety. What reflections we express on them are our own. The stories themselves will be drawn mostly from classic references, available in any library: Butler's Lives of the Saints (Thurston and Attwater, editors); the Catholic Encyclopedia (1907); and the New Catholic Encyclopedia (1967).
+“Saints Alive” will succeed “[All God's Children][].” Henceforth (God willing, and the saints assisting), we shall tell you the stories of a saint or “blessed” drawn from the calendar of each current week. Some of them will be familiar to you. Many more will not. There is such a vast array of saints from every clime and time and condition that it is good to be reminded of their infinite variety. What reflections we express on them are our own. The stories themselves will be drawn mostly from classic references, available in any library: Butler's Lives of the Saints (Thurston and Attwater, editors); the Catholic Encyclopedia (1907); and the New Catholic Encyclopedia (1967).
+
+[All God's Children]: /sunday-reflections
 
 Before we start telling you about the saints, however, we should first answer the question, “What is a saint?”
 
