@@ -1,0 +1,17 @@
+.saint-nav {
+  display: flex;
+  flex-direction: row;
+  place-content: center;
+}
+
+.saint-nav > a {
+  padding: var(--space-m-l);
+  display: block;
+}
+
+.saint-nav .prev::before {
+  content: '←'
+}
+.saint-nav .next::after {
+  content: '→'
+}

@@ -8,3 +8,17 @@ layout: base
     {{ content | safe }}
   </div>
 </article>
+
+<div class="saint-nav">
+  {% set this_saint = saints_alive_index_by_permalink[permalink] %}
+  {% if this_saint.prev %}
+  <a class="prev" href="/{{ this_saint.prev.href }}">
+    {{ this_saint.prev.title }}
+  </a>
+  {% endif %}
+  {% if this_saint.next %}
+  <a class="next" href="/{{ this_saint.next.href }}">
+    {{ this_saint.next.title }}
+  </a>
+  {% endif %}
+</div>
