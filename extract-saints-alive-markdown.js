@@ -76,7 +76,7 @@ const main = async () => {
     ...result,
     [saint.permalink]: saint,
   }), {});
-  await fs.writeFile('src/_data/saints_alive_index_by_permalink.json', JSON.stringify(saintList, null, 2), { encoding: 'utf-8' });
+  await fs.writeFile('src/_data/saints_alive_index_by_permalink.json', JSON.stringify(saintIndexByPermalink, null, 2), { encoding: 'utf-8' });
 
   await fs.unlink(INPUT_FILE);
   await fs.unlink('src/pages/saints-alive/saints-alive-saint.md');
