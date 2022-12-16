@@ -1,3 +1,6 @@
+/* eslint-disable camelcase */
+import { isSunday, nextSunday, previousSunday } from 'date-fns';
+
 // ------------------- cards redundant click, accessible whole card clickable solution by Heydon Pickering
 
 const cards = [...document.querySelectorAll('.card')];
@@ -52,6 +55,42 @@ document.addEventListener('click', e => {
 nav.insertBefore(burgerClone, list);
 
 const setupSundayReflections = async () => {
+  const cal = {} // TODO
+  window.cal = cal;
+  console.log('Calendar:', cal);
+
+  const today = new Date();
+  const lastSundayDate = previousSunday(today);
+  const nextSundayDate = nextSunday(today);
+
+  /**
+   * 
+   * @param {Date} date
+   * @returns 
+   */
+  const getDay = (date) => {
+    // TODO handle year boundaries
+    const key = `${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()}`;
+    const result = cal[date];
+    console.log(`Getting entries for ${key}:`, result);
+    if (result) {
+      return result[0];
+    }
+    return null;
+  };
+
+  const result = {
+    lastSundayDetails: getDay(lastSundayDate),
+    nextSundayDetails: getDay(nextSundayDate),
+  };
+
+  if (isSunday(today)) {
+    result.todayDetails = getDay(today);
+  }
+
+  window.result = result;
+
+  return result;
 };
 
 window.setupSundayReflections = setupSundayReflections;
