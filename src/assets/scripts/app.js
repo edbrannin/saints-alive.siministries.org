@@ -50,3 +50,10 @@ document.addEventListener('click', e => {
 });
 
 nav.insertBefore(burgerClone, list);
+
+const setupSundayReflections = async () => {
+};
+
+window.setupSundayReflections = setupSundayReflections;
+document.setupSundayReflections = setupSundayReflections;
+window.Romcal = Romcal;
