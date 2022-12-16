@@ -1,7 +1,7 @@
 ---
 permalink: "saints-alive/what-is-a-saint/index.html"
 title: What is a saint?
-layout: page
+layout: saint
 ---
 
 **First Saints Alive Column - What is a Saint?**
