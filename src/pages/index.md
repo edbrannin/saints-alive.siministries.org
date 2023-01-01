@@ -10,7 +10,7 @@ layout: 'home'
 
 Rev. Dr. Robert F. McNamara was ordained a priest in 1936 and was Professor of Church History for over 40 years. He said weekend Masses at St. Salome for many years, and moved to St. Thomas the Apostle when he retired from teaching in 1980.
 
-Father McNamara went home to the Lord on May 22, 2009 at the age of 98, the oldest priest in the Diocese of Rochester, New York at that time.  Bishop Ckark wrote "[Remembering, missing Father Robert McNamara][clark-reflection]" on the eve of his funeral.
+Father McNamara went home to the Lord on May 22, 2009 at the age of 98, the oldest priest in the Diocese of Rochester, New York at that time.  Bishop Clark wrote "[Remembering, missing Father Robert McNamara][clark-reflection]" on the eve of his funeral.
 
 Aside from "[Saints Alive][]" and many historical books, he wrote a series entitled "All God's Children" in in the early 1980s with reflections centering on the readings of the liturgical cycle. Visit [Sunday Reflections][] to read these articles.
 
