@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
 
     <!-- defer js  -->
-    <script type="module" src="/assets/app.js" defer></script>
+    <script id="app-bundle" type="module" src="/assets/app.js" defer></script>
 
     <!--  Add facility for pages to declare an array of stylesheet paths -->
     {% if pageStylesheets %} {% for item in pageStylesheets %}

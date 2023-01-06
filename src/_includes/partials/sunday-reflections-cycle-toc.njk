@@ -9,11 +9,11 @@
       </tr>
     </thead>
     <tbody>
-      {% for week in sunday_reflections_toc %} <tr>
+      {% for week in sunday_reflections_toc %} <tr data-week="{{ week.key | default(week.name) }}">
         <th>{{ week.name }}</td>
-        <td><a href="{{ week.a }}">Year A</a></td>
-        <td><a href="{{ week.b }}">Year B</a></td>
-        <td><a href="{{ week.c }}">Year C</a></td>
+        <td class="cycle-a"><a href="{{ week.a }}">Year A</a></td>
+        <td class="cycle-b"><a href="{{ week.b }}">Year B</a></td>
+        <td class="cycle-c"><a href="{{ week.c }}">Year C</a></td>
       </tr> {% endfor %}
     </tbody>
   </table>

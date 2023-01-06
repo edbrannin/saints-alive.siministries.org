@@ -18,6 +18,16 @@ The final reflection on each page is by John Dealy, parishioner of Saint Kateri 
 [Reflection by Bishop Clark]: https://web.archive.org/web/20221210040254/https://catholiccourier.com/articles/remembering-missing-father-robert-mcnamara/
 [Deacon Paul Rooney, Mary Our Queen Parish, Omaha]: https://web.archive.org/web/20170908174022/http://www.angelfire.com:80/ne/DeaconPaul/
 
+<script>
+  document.getElementById('app-bundle').onload = () => {
+    const result = setupSundayReflections();
+    document.getElementById('result').innerHTML = `Result:\n${JSON.stringify(result, null, 2)}\n\nCal:\n${JSON.stringify(cal, null, 2)}`
+  };
+</script>
+
+<pre id="result">
+</pre>
+
 {% include "partials/sunday-reflections-cycle-toc.njk" %}
 
 ## Other Feasts

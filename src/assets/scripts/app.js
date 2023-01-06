@@ -1,3 +1,5 @@
+import { setupSundayReflections } from './sunday-reflections';
+
 // ------------------- cards redundant click, accessible whole card clickable solution by Heydon Pickering
 
 const cards = [...document.querySelectorAll('.card')];
@@ -50,3 +52,4 @@ document.addEventListener('click', e => {
 });
 
 nav.insertBefore(burgerClone, list);
+ 
